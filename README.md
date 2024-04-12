@@ -1,16 +1,16 @@
-### Oi eu me chamo Pedro Carlos 👋
+### Oi, eu me chamo Pedro Carlos 👋
 
-<!--
-**PedroCarlos30/PedroCarlos30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](pedrocarlos_07)
+[![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-carlos-lima-paiva-110095220/)
 
-Here are some ideas to get you started:
+![PedroCarlosGitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCarlos30&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###As linguagem que estou etudando:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+###Contato<br/><br/>
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrocarloslp@gmail.com)
