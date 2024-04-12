@@ -7,7 +7,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-<h3>Hobies:<h3>
+<h3>Hobbies:<h3>
     <h6><li>Violão</li></h6>
     <h6><li>Música</li></h6>
     <h6><li>filmes/series</li></h6>
