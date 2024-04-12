@@ -1,6 +1,6 @@
 ### Oi, eu me chamo Pedro Carlos 👋
 
-![PedroCarlos GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCarlos30&show_icons=true&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCarlos30&show_icons=true&theme=radical=dracula)
 
 As linguagem que eu uso no meu dia:
 
