@@ -2,7 +2,7 @@
 
 ![PedroCarlos30 GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCarlos30&show_icons=true&theme=radical=dracula)
 
-<h3>As linguagem que eu uso no meu dia:</h3>
+<h3>As linguagens que estou estudando:</h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
