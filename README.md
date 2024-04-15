@@ -1,7 +1,6 @@
 ### Oi, eu me chamo Pedro Carlos 👋
 
 ![PedroCarlosGitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCarlos30&theme=blue-black)
-
 ![img](https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif)
 
 <h3>As linguagens que estou estudando:</h3>
