@@ -2,6 +2,8 @@
 
 ![PedroCarlosGitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCarlos30&theme=blue-black)
 
+![img](https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif)
+
 <h3>As linguagens que estou estudando:</h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
