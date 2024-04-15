@@ -1,6 +1,6 @@
 ### Oi, eu me chamo Pedro Carlos 👋
 
-![PedroCarlos30 GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCarlos30&show_icons=true&theme=radical=dracula)
+![PedroCarlos30 GitHub stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
 
 <h3>As linguagens que estou estudando:</h3>
 
