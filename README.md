@@ -1,4 +1,4 @@
-<h1> Oi, eu me chamo Pedro Carlos 👋</h1>
+<h1> Oi, eu me chamo Pedro Carlos, seja bem-vindo(a) ao meu perfil. 👋</h1>
 
 ![PedroCarlosGitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCarlos30&theme=blue-black)
 ![img](https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif)
