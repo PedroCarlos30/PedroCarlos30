@@ -1,9 +1,7 @@
 <h1> Hi, I'm Pedro Carlos, you're welcome to my profile. 👋</h1>
 
-![PedroCarlosGitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCarlos30&theme=blue-black)
 ![img](https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif)
 
-<h3>As linguagens que estou estudando:</h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
