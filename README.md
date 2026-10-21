@@ -70,10 +70,10 @@
 
 ## 🎯 Hobbies
 
-* 🎸 Playing guitar
-* 🎧 Listening to music
-* 🎬 Watching movies and series
-* 💡 Learning new technologies
+* 🎸 Play guitar
+* 🎧 Listen to music
+* 🎬 Watch movies and series
+* 💡 Learn new technologies
 
 ---
 
